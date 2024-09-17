@@ -104,3 +104,5 @@ plt.title('Top Laptops by Adjusted Weighted Sentiment')
 plt.xlabel('Adjusted Weighted Sentiment')
 plt.ylabel('Product Name')
 plt.show()
+
+print("Done")
