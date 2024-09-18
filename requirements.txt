@@ -2,4 +2,6 @@
 #!pip install scikit-learn
 #!pip install vaderSentiment
 #!pip install nltk
-#pip install nltk
+#pip installl requests
+#pip install bs4
+#pip install urllib.parse
