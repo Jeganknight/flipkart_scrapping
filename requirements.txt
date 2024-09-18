@@ -2,3 +2,4 @@
 #!pip install scikit-learn
 #!pip install vaderSentiment
 #!pip install nltk
+#pip install nltk
