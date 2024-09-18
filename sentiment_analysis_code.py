@@ -105,4 +105,4 @@ plt.xlabel('Adjusted Weighted Sentiment')
 plt.ylabel('Product Name')
 plt.show()
 
-print("Done")
+print("Completed")
